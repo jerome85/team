@@ -1,0 +1,10 @@
+body {
+  padding-top: 10px;
+}
+[class*="col-"], footer {
+  background-color: lightgreen;
+  padding: 0;
+}
+[class*="col-"] img{
+	width:100%;
+}
