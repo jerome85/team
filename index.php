@@ -17,12 +17,12 @@
   <body>
   	<div class="container">
   		<div class="row">
-  			<div class="col-lg-2"><img src="img/equipe1.png"/></div>
-  			<div class="col-lg-2"><img src="img/equipe2.png"/></div>
-  			<div class="col-lg-2"><img src="img/equipe3.png"/></div>
-  			<div class="col-lg-2"><img src="img/equipe4.png"/></div>
-  			<div class="col-lg-2"><img src="img/equipe5.png"/></div>
-  			<div class="col-lg-2"><img src="img/equipe6.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe1.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe2.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe3.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe4.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe5.png"/></div>
+  			<div class="col-xs-4 col-sm-3 col-lg-2"><img src="img/equipe6.png"/></div>
   		</div>
   	</div>
     <div class="row">

@@ -6,9 +6,16 @@ body {
   padding: 0;
 }
 [class*="col-"] img{
-	width:101%;
+	width:100.5%;
+	height: 272px;
+	cursor:pointer;
 }
+
+[class*="col-"] img:hover{
+	opacity:1;
+}
+
 img{
-	opacity: 0.6;
+	opacity: 0.5;
     filter: alpha(opacity=60);
 }
