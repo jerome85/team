@@ -6,8 +6,7 @@ body {
   padding: 0;
 }
 [class*="col-"] img{
-	width:100.5%;
-	height: 272px;
+	width:101%;
 	cursor:pointer;
 }
 
