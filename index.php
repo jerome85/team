@@ -48,13 +48,13 @@
       <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-3"><h3>Stéphane Bégin, LL.B.</h3></div>
-        <div class="col-md-5"><p>Avocat de formation, Stéphane est diplômé en droit de l’Université 
-          de Montréal et membre du Barreau du Québec. Après avoir exercé le droit en pratique privée, 
-          il s’est rapidement orienté vers le milieu des affaires. Depuis 1995, avec son équipe, il a 
-          procédé à une série d’acquisitions d’entreprises œuvrant dans différents secteurs 
-          d’activités. Fondateur d’Aliston, il y siège au conseil d’administration et agit à 
-          titre de président. Enfin, il siège au conseil d’administration de nombreuses sociétés dans 
-          lesquelles le groupe détient des participations.</p></div>
+        <div class="col-md-5"><p>Avocat de formation, Stéphane est diplômé en droit et membre du Barreau 
+          du Québec. Après avoir exercé le droit en pratique privée, il a réorienté sa carrière vers 
+          le milieu des affaires. Depuis 1995, avec son équipe, il a procédé à une série d’acquisitions 
+          d’entreprises œuvrant dans différents secteurs d’activités. Fondateur d’Aliston, il y siège 
+          au conseil d’administration et agit à titre de président. Enfin, il siège au conseil 
+          d’administration de nombreuses sociétés dans lesquelles le groupe détient des participations.</p>
+        </div>
         <div class="col-md-2"></div>
       </div>
       <div class="row">
@@ -73,14 +73,12 @@
       <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-3"><h3>Caroline Martel, CPA.CA</h3></div>
-        <div class="col-md-5"><p>Caroline agit à titre de vice-présidente, finance et 
-          investissements. Comptable professionnelle agréée (CPA.CA), elle exerce sa 
-          profession depuis treize ans. Ayant d’abord travaillé au sein de grands cabinets, 
-          elle a ensuite occupé le poste de Directrice des finances d’une société publique 
-          canadienne en Europe et en Amérique Centrale.<br/>Forte de ces expériences, 
-          Caroline met aujourd’hui ses compétences au profit de la société lors de l
-          ’évaluation des opportunités d’affaires et du financement, en plus de veiller à 
-          la saine gestion financière de l’entreprise.</p></div>
+        <div class="col-md-5"><p>Comptable professionnelle agréée (CPA, CA), Caroline exerce sa 
+          profession depuis 2001. Ayant d’abord travaillé au sein de grands cabinets, elle a ensuite 
+          occupé le poste de Directrice des finances d’une société publique canadienne en Europe et en 
+          Amérique Centrale. Forte de ces expériences, Caroline met aujourd’hui ses compétences au 
+          profit de la société lors de l’évaluation des opportunités d’affaires et du financement, tout 
+          en étant responsable de la gestion financière de l’entreprise.</p></div>
         <div class="col-md-2"></div>
       </div>
       <div class="row">
