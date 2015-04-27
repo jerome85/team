@@ -2,12 +2,16 @@ body {
   padding-top: 10px;
 }
 [class*="col-"], footer {
-  
   padding: 0;
 }
 [class*="col-"] img{
-	width:101%;
+	width:100.6%;
 	cursor:pointer;
+	border:-1px;
+}
+
+#photo{
+	width: 99.15%;
 }
 
 [class*="col-"] img:hover{
